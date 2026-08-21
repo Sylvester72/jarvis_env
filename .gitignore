@@ -1,0 +1,11 @@
+# Virtual environment
+jarvis_env/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Personal data (voice profile, memory) - not code
+data/
+jarvis_memory.json
+jarvis_voice_profile.npy
