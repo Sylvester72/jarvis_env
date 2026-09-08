@@ -5,7 +5,13 @@ jarvis_env/
 __pycache__/
 *.pyc
 
+# Environment-specific
+node_modules/
+
 # Personal data (voice profile, memory) - not code
 data/
 jarvis_memory.json
 jarvis_voice_profile.npy
+data/memory.json
+data/voice_profile.npy
+data/routines.json
